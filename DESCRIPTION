@@ -1,0 +1,12 @@
+Package: hflights
+Type: Package
+Title: Flights that departed Houston in 2011
+Version: 0.1
+Author: Hadley Wickham <h.wickham@gmail.com>
+Maintainer: Hadley Wickham <h.wickham@gmail.com>
+License: CC0
+Description: A data only package containing commercial domestic flights that
+    departed Houston (IAH and HOU) in 2011.
+Depends:
+    R (>= 2.10)
+LazyData: true
